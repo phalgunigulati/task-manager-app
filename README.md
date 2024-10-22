@@ -2,6 +2,7 @@ This project is an amazing task manager app where users can create, edit and del
 The project includes user authentication allowing users to login and signup as they wish. 
 
 Technology Stack: 
+
 React Js: The frontend of the project is setup using react js
 Express js is used as the backend 
 PostgreSql: This project uses PostgreSQL for database functionalities 
