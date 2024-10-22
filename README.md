@@ -1,5 +1,6 @@
 This project is an amazing task manager app where users can create, edit and delete tasks as well as complete the tasks to see their progress. 
 The project includes user authentication allowing users to login and signup as they wish. 
+
 Technology Stack: 
 React Js: The frontend of the project is setup using react js
 Express js is used as the backend 
