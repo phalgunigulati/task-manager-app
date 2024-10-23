@@ -18,6 +18,10 @@ const corsOptions = {
 app.use(cors(corsOptions))
 app.use(express.json());  
 
+app.get("/", (req, res) => {
+  res.send("Server is running");
+});
+
 // get all tasks
 app.get('/tasks/:userEmail',  async (req, res) => {
   const { userEmail } = req.params;
